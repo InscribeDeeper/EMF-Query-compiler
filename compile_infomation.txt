@@ -1,0 +1,14 @@
+#### execute compile python file : CMD code
+CD "E:\OneDrive - stevens.edu\Stevens BIA\CS562/Proj\EMF2PY\demo_exe"
+pyinstaller -F -c "E:\OneDrive - stevens.edu\Stevens BIA\CS562/Proj\EMF2PY\main.py"
+
+
+
+####  package used 
+pyinstaller 
+psycopg2
+re
+argparse
+itertools
+collections
+sys

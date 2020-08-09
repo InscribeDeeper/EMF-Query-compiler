@@ -1,0 +1,13 @@
+SELECT ATTRIBUTE(S):
+cust,prod,1_avg_quant,2_avg_quant
+NUMBER OF GROUPING VARIABLES(n):
+1,2
+GROUPING ATTRIBUTES(V):
+cust,prod
+F-VECT([F]):
+1_avg_quant, 2_avg_quant
+SELECT CONDITION-VECT([C]):
+1.cust=cust and 1.prod=prod
+2.cust=cust and 2.prod<>cust
+HAVING_CONDITION(G):
+1_avg_quant<>0

@@ -1,0 +1,72 @@
+#### Switch pwd and environment
+conda activate py810 
+cd /d E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY
+
+
+#### 1
+python main.py -p "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/" -i /Input_files/input1.txt -o Output_files/out1.py
+python "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/Output_files/out1.py"
+
+
+#### 2
+python main.py -p "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/" -i /Input_files/input2.txt -o Output_files/out2.py
+python "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/Output_files/out2.py
+
+
+#### 3
+python main.py -p "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/" -i /Input_files/input3.txt -o Output_files/out3.py
+python "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/Output_files/out3.py
+
+
+#### 4
+python main.py -p "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/" -i /Input_files/input4.txt -o Output_files/out4.py
+python "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/Output_files/out4.py
+
+
+#### 5
+python main.py -p "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/" -i /Input_files/input5.txt -o Output_files/out5.py
+python "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/Output_files/out5.py
+
+
+#### 6
+python main.py -p "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/" -i /Input_files/input6.txt -o Output_files/out6.py
+python "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/Output_files/out6.py
+
+
+#### 7
+python main.py -p "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/" -i /Input_files/input7.txt -o Output_files/out7.py
+python "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/Output_files/out7.py
+
+
+#### 7_2
+python main.py -p "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/" -i /Input_files/input7_2.txt -o Output_files/out7_2.py
+python "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/Output_files/out7_2.py
+
+
+#### 8
+python main.py -p "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/" -i /Input_files/input8.txt -o Output_files/out8.py
+python "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/Output_files/out8.py
+
+
+#### 9
+python main.py -p "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/" -i /Input_files/input9.txt -o Output_files/out9.py
+python "E:/OneDrive - stevens.edu/Stevens BIA/CS562/Proj/EMF2PY/Output_files/out9.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
